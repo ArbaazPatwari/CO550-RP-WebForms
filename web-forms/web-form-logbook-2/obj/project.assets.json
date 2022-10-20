@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arbaaz\\Documents\\GITHUB\\CO550-Logbook-code-2022\\logbook-2\\web-forms\\web-form-logbook-2\\web-form-logbook-2.csproj",
+      "projectUniqueName": "C:\\Users\\Arbaaz\\Documents\\GITHUB\\CO550-RP-WebForms\\web-forms\\web-form-logbook-2\\web-form-logbook-2.csproj",
       "projectName": "web-form-logbook-2",
-      "projectPath": "C:\\Users\\Arbaaz\\Documents\\GITHUB\\CO550-Logbook-code-2022\\logbook-2\\web-forms\\web-form-logbook-2\\web-form-logbook-2.csproj",
+      "projectPath": "C:\\Users\\Arbaaz\\Documents\\GITHUB\\CO550-RP-WebForms\\web-forms\\web-form-logbook-2\\web-form-logbook-2.csproj",
       "packagesPath": "C:\\Users\\Arbaaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arbaaz\\Documents\\GITHUB\\CO550-Logbook-code-2022\\logbook-2\\web-forms\\web-form-logbook-2\\obj\\",
+      "outputPath": "C:\\Users\\Arbaaz\\Documents\\GITHUB\\CO550-RP-WebForms\\web-forms\\web-form-logbook-2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Arbaaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
