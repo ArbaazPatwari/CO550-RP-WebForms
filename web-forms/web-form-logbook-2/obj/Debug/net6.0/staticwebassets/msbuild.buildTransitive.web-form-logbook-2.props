@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\web-form-logbook-2.props" />
+</Project>
